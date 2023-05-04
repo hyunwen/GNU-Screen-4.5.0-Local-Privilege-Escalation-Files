@@ -1,4 +1,6 @@
 # GNU-Screen-4.5.0-Local-Privilege-Escalation-Files
+##Add low GLIBC version release file
+For more information, see [release]:https://github.com/hyunwen/GNU-Screen-4.5.0-Local-Privilege-Escalation-Files/releases
 ## Steps to Escalate Privilege
 
 1. Download the 3 files hosted in this Repo.
